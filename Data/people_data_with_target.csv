@@ -1,0 +1,501 @@
+Age,Gender,EducationLevel,City,Income,HighIncome
+56,Male,High School,Los Angeles,102762,1
+46,Male,Bachelors,Houston,100020,1
+32,Male,Masters,New York,77310,0
+60,Male,PhD,Los Angeles,38405,0
+25,Male,Bachelors,Chicago,58522,0
+38,Female,Masters,Houston,60712,0
+56,Male,Masters,New York,43470,0
+36,Male,PhD,Phoenix,93091,1
+40,Male,High School,Chicago,40931,0
+28,Female,High School,Los Angeles,109306,1
+28,Female,Bachelors,Los Angeles,109256,1
+41,Male,PhD,Chicago,62298,0
+53,Female,High School,Los Angeles,76569,0
+57,Male,PhD,Houston,68554,0
+41,Male,High School,New York,88036,1
+20,Female,Masters,Houston,95493,1
+39,Male,High School,Los Angeles,75159,0
+19,Female,PhD,Phoenix,79382,0
+41,Female,Masters,New York,57587,0
+61,Male,Masters,New York,78734,0
+47,Male,Masters,Chicago,73255,0
+55,Female,PhD,Chicago,51764,0
+19,Male,Bachelors,Phoenix,69719,0
+38,Male,Bachelors,New York,62336,0
+50,Male,Bachelors,Phoenix,57810,0
+29,Female,PhD,Chicago,47070,0
+39,Female,Masters,Chicago,71250,0
+61,Male,Bachelors,New York,54390,0
+42,Female,,Houston,60577,0
+44,Female,Bachelors,Los Angeles,91502,1
+59,Female,High School,Chicago,82642,1
+45,Female,Bachelors,Chicago,50424,0
+33,Female,Bachelors,Houston,77037,0
+32,Male,Masters,Houston,72655,0
+64,Male,PhD,Phoenix,104033,1
+61,Male,Masters,Phoenix,97662,1
+20,Female,,Los Angeles,39325,0
+54,Female,Masters,Los Angeles,87222,1
+24,Male,Masters,New York,95303,1
+38,Female,Masters,Phoenix,81187,1
+26,Male,Bachelors,Chicago,63291,0
+56,Male,Masters,Phoenix,118267,1
+35,Male,Masters,Chicago,83028,1
+21,Female,PhD,Houston,109530,1
+42,Female,,Phoenix,97029,1
+31,Male,Bachelors,Houston,79282,0
+26,Male,Bachelors,Los Angeles,58405,0
+43,Male,Bachelors,Los Angeles,69517,0
+19,Male,Masters,New York,65561,0
+37,Female,Masters,Phoenix,45709,0
+45,Female,Masters,Houston,83005,1
+64,Male,PhD,Chicago,101347,1
+24,Male,,Los Angeles,64033,0
+61,Female,Masters,Los Angeles,113273,1
+25,Female,High School,Chicago,38848,0
+64,Male,PhD,Houston,91087,1
+52,Male,Bachelors,Houston,103430,1
+31,Male,Masters,Phoenix,65919,0
+34,Female,High School,Phoenix,66278,0
+53,Female,High School,New York,90855,1
+57,Female,Masters,Los Angeles,80119,1
+21,Male,Bachelors,Phoenix,30051,0
+19,Male,Bachelors,Houston,53132,0
+23,Female,Bachelors,Chicago,69729,0
+59,Female,PhD,Houston,42606,0
+21,Male,High School,Los Angeles,60516,0
+46,Female,High School,Houston,43106,0
+35,Female,High School,New York,62596,0
+43,Male,PhD,Los Angeles,63267,0
+61,Female,High School,Chicago,77035,0
+51,Male,PhD,New York,68164,0
+27,Male,Bachelors,Los Angeles,80055,1
+53,Male,Masters,Chicago,77670,0
+31,Male,High School,New York,90626,1
+48,Male,High School,New York,87475,1
+32,Male,Bachelors,Los Angeles,85362,1
+25,Male,Masters,Phoenix,132097,1
+31,Female,PhD,New York,76948,0
+40,Male,Masters,New York,121871,1
+57,Male,Bachelors,Chicago,78244,0
+38,Female,Bachelors,Houston,68342,0
+33,Female,Masters,Los Angeles,62536,0
+62,Female,PhD,Los Angeles,100194,1
+35,Male,PhD,Phoenix,102810,1
+64,Female,High School,Phoenix,81995,1
+41,Male,PhD,Los Angeles,92670,1
+43,Male,Masters,Phoenix,44455,0
+42,Male,Bachelors,Chicago,39024,0
+62,Male,High School,Los Angeles,94926,1
+58,Female,High School,Phoenix,67463,0
+46,Female,,Los Angeles,84986,1
+32,Male,PhD,Houston,55654,0
+62,Male,Bachelors,New York,103139,1
+18,Male,PhD,Los Angeles,39191,0
+42,Female,Bachelors,New York,42288,0
+24,Male,Masters,Phoenix,98886,1
+26,Male,PhD,New York,17803,0
+41,Female,Masters,Los Angeles,77571,0
+18,Female,High School,Houston,67853,0
+61,Male,Bachelors,Phoenix,55280,0
+25,Female,High School,Los Angeles,66001,0
+41,Female,High School,Phoenix,53049,0
+28,Male,High School,Chicago,100845,1
+34,Female,High School,New York,106089,1
+25,Male,Bachelors,Chicago,56285,0
+52,Female,High School,Los Angeles,75510,0
+52,Male,Bachelors,Houston,43498,0
+50,Male,Bachelors,Phoenix,91461,1
+22,Male,Masters,New York,90940,1
+59,Female,PhD,Phoenix,64094,0
+56,Male,PhD,Los Angeles,70337,0
+58,Female,Bachelors,Phoenix,68124,0
+45,Male,Masters,New York,37630,0
+24,Male,Bachelors,Los Angeles,100920,1
+26,Female,Bachelors,Phoenix,54660,0
+25,Male,Bachelors,Houston,54797,0
+29,Male,Masters,Los Angeles,66991,0
+51,Female,PhD,Los Angeles,89910,1
+50,Male,Masters,Houston,58173,0
+40,Male,High School,Chicago,30956,0
+41,Male,Masters,New York,52260,0
+54,Male,Masters,Chicago,78482,0
+52,Female,Masters,Phoenix,113795,1
+61,Female,Masters,Houston,44801,0
+57,Male,PhD,Chicago,44069,0
+39,Female,High School,Los Angeles,39748,0
+44,Male,PhD,Phoenix,37265,0
+52,Female,PhD,Phoenix,94113,1
+18,Male,Masters,Chicago,99893,1
+52,Male,Bachelors,Chicago,73555,0
+54,Male,Bachelors,Houston,60645,0
+64,Male,PhD,New York,105822,1
+31,Male,PhD,Chicago,73478,0
+20,Male,Masters,Chicago,91788,1
+18,Female,PhD,Los Angeles,59671,0
+22,Male,Masters,Phoenix,70884,0
+43,Female,Bachelors,New York,45253,0
+31,Male,Bachelors,Los Angeles,82584,1
+56,Female,High School,Houston,73818,0
+44,Female,Bachelors,Houston,52108,0
+26,Female,,Chicago,52377,0
+32,Male,Bachelors,Chicago,102319,1
+32,Male,Masters,Houston,109433,1
+43,Female,Bachelors,Chicago,65737,0
+59,Male,High School,New York,71355,0
+30,Female,Bachelors,Chicago,78002,0
+49,Male,Masters,Phoenix,72960,0
+56,Female,Masters,Chicago,36514,0
+49,Female,,Los Angeles,78557,0
+21,Male,Bachelors,New York,28242,0
+47,Female,Masters,Los Angeles,55346,0
+54,Male,High School,Los Angeles,80108,1
+40,Female,PhD,Phoenix,81999,1
+56,Female,High School,New York,53798,0
+62,Male,Bachelors,New York,60831,0
+32,Male,,New York,58123,0
+60,Male,Bachelors,New York,67943,0
+46,Female,PhD,New York,69464,0
+53,Male,Masters,Phoenix,83369,1
+30,Female,PhD,Chicago,59662,0
+49,Female,High School,Los Angeles,77467,0
+24,Male,PhD,New York,80140,1
+39,Male,High School,Chicago,73965,0
+45,Female,PhD,Chicago,64807,0
+19,Female,Masters,Los Angeles,73612,0
+59,Male,High School,Phoenix,85034,1
+62,Male,Bachelors,Houston,86783,1
+23,Male,Bachelors,Houston,106307,1
+45,Male,PhD,Chicago,50199,0
+45,Male,Bachelors,Los Angeles,61199,0
+61,Female,High School,Houston,37730,0
+61,Female,Bachelors,Chicago,88620,1
+37,Female,Masters,Phoenix,63309,0
+47,Female,Masters,Houston,74123,0
+28,Male,PhD,Chicago,57913,0
+45,Male,,Chicago,63465,0
+42,Male,Masters,New York,94463,1
+56,Female,Masters,Phoenix,83884,1
+50,Female,High School,New York,67769,0
+18,Male,Bachelors,Los Angeles,85356,1
+44,Male,,New York,85798,1
+30,Female,PhD,New York,62171,0
+58,Female,Bachelors,Houston,40618,0
+20,Male,High School,Chicago,52016,0
+56,Male,Masters,Phoenix,43189,0
+23,Female,Bachelors,New York,93288,1
+25,Male,,Phoenix,96762,1
+44,Male,Bachelors,New York,101727,1
+26,Male,High School,Los Angeles,29608,0
+54,Female,PhD,New York,91428,1
+50,Female,Bachelors,Houston,114243,1
+59,Female,PhD,Chicago,92239,1
+61,Female,High School,Los Angeles,26975,0
+41,Female,Masters,New York,105365,1
+32,Female,,Phoenix,70833,0
+49,Female,High School,Los Angeles,65352,0
+49,Male,High School,Los Angeles,79021,0
+41,Male,High School,New York,49019,0
+58,Male,Masters,Los Angeles,70055,0
+29,Male,Masters,Phoenix,102408,1
+56,Male,PhD,Los Angeles,82447,1
+19,Male,Bachelors,Phoenix,71168,0
+20,Male,Masters,New York,71792,0
+54,Female,Masters,Chicago,46372,0
+34,Female,Bachelors,Los Angeles,67000,0
+19,Male,Masters,Chicago,37314,0
+19,Male,High School,Phoenix,90448,1
+45,Female,High School,Los Angeles,26285,0
+40,Male,Bachelors,Houston,87098,1
+54,Male,PhD,Chicago,89588,1
+49,Female,PhD,Los Angeles,96375,1
+50,Male,,Chicago,71737,0
+18,Female,Bachelors,Los Angeles,88332,1
+36,Male,High School,New York,66805,0
+19,Female,PhD,Chicago,46266,0
+61,Female,Masters,Houston,100614,1
+43,Female,High School,Houston,68062,0
+49,Male,Bachelors,Phoenix,41809,0
+23,Female,PhD,Los Angeles,60663,0
+49,Male,Masters,Chicago,61453,0
+21,Male,Masters,Phoenix,79233,0
+28,Male,High School,Chicago,116940,1
+34,Male,PhD,Los Angeles,80448,1
+55,Female,PhD,Houston,74136,0
+41,Female,Bachelors,New York,119115,1
+22,Male,PhD,Houston,89577,1
+51,Male,PhD,Phoenix,75084,0
+23,Female,High School,New York,60411,0
+39,Male,PhD,Phoenix,76324,0
+28,Female,Masters,Los Angeles,68672,0
+33,Male,High School,New York,71828,0
+50,Male,High School,Phoenix,96288,1
+26,Female,Bachelors,Los Angeles,59193,0
+23,Male,PhD,Houston,80270,1
+33,Female,Bachelors,Los Angeles,88978,1
+46,Male,Masters,Chicago,56757,0
+20,Male,High School,Los Angeles,53547,0
+37,Male,High School,Los Angeles,66993,0
+53,Female,,Chicago,60767,0
+36,Male,Masters,Phoenix,93046,1
+43,Male,Masters,Phoenix,49964,0
+20,Male,Bachelors,Los Angeles,71369,0
+36,Male,Bachelors,Chicago,120920,1
+37,Female,Bachelors,Chicago,78261,0
+49,Female,PhD,Houston,81585,1
+24,Male,High School,Phoenix,93213,1
+58,Female,High School,New York,60741,0
+50,Male,Bachelors,Phoenix,48371,0
+57,Male,High School,Phoenix,73530,0
+56,Male,Bachelors,Houston,75308,0
+35,Female,PhD,New York,37635,0
+57,Female,PhD,Houston,77501,0
+18,Female,Masters,New York,91397,1
+28,Female,PhD,Los Angeles,51741,0
+45,Female,Bachelors,New York,78711,0
+42,Female,PhD,Houston,87845,1
+40,Female,Masters,Phoenix,81733,1
+48,Female,High School,New York,83620,1
+47,Female,Bachelors,New York,65103,0
+59,Male,High School,Chicago,47449,0
+52,Female,Masters,Phoenix,61057,0
+24,Female,Masters,Los Angeles,58278,0
+33,Female,Masters,Houston,68394,0
+43,Female,,Los Angeles,91865,1
+19,Female,High School,Phoenix,43763,0
+18,Female,High School,New York,72885,0
+29,Female,High School,New York,48731,0
+22,Female,Masters,Phoenix,55199,0
+54,Female,,New York,81174,1
+49,Female,Bachelors,New York,46201,0
+26,Female,Bachelors,New York,84684,1
+58,Male,High School,Houston,42956,0
+52,Male,PhD,Houston,83339,1
+36,Female,PhD,Chicago,39009,0
+33,Female,Masters,Los Angeles,57643,0
+20,Male,Masters,Phoenix,107929,1
+37,Female,Masters,Phoenix,104170,1
+41,Male,Bachelors,Phoenix,61749,0
+50,Male,Bachelors,Chicago,77799,0
+41,Male,Masters,Houston,94081,1
+28,Male,Masters,Chicago,83625,1
+25,Male,Masters,Phoenix,64530,0
+53,Female,PhD,Los Angeles,55027,0
+55,Male,Bachelors,New York,87362,1
+57,Female,,Houston,92614,1
+37,Female,PhD,Houston,104314,1
+52,Male,Masters,Chicago,36255,0
+42,Male,Masters,Houston,44937,0
+52,Female,High School,Phoenix,93238,1
+42,Male,High School,Phoenix,38969,0
+46,Male,PhD,Chicago,94770,1
+35,Female,Bachelors,Phoenix,65701,0
+63,Female,Masters,Los Angeles,59581,0
+35,Male,Masters,Chicago,74108,0
+19,Female,PhD,Los Angeles,43092,0
+52,Male,High School,New York,86480,1
+33,Male,Bachelors,Los Angeles,103792,1
+58,Male,,New York,87411,1
+53,Female,High School,New York,65069,0
+50,Female,High School,Los Angeles,39239,0
+21,Female,High School,Chicago,40008,0
+50,Female,Masters,Phoenix,43407,0
+31,Female,Masters,Phoenix,69754,0
+38,Male,High School,New York,72268,0
+37,Male,Bachelors,New York,87368,1
+25,Male,PhD,Chicago,34079,0
+24,Male,Bachelors,Houston,96224,1
+20,Female,Bachelors,Los Angeles,83888,1
+34,Male,Bachelors,New York,63463,0
+50,Female,High School,Phoenix,46204,0
+29,Male,Masters,Chicago,94982,1
+39,Female,Bachelors,Los Angeles,63998,0
+39,Female,High School,Chicago,69599,0
+63,Male,Bachelors,Los Angeles,77672,0
+47,Male,Bachelors,Los Angeles,51736,0
+55,Male,High School,New York,64356,0
+55,Male,Masters,Chicago,87306,1
+62,Female,Masters,Chicago,85281,1
+25,Male,PhD,Phoenix,85462,1
+44,Male,High School,Phoenix,46896,0
+44,Female,PhD,New York,65268,0
+51,Male,PhD,New York,62072,0
+38,Male,PhD,Houston,78503,0
+47,Male,Masters,Phoenix,76713,0
+50,Male,High School,Los Angeles,73108,0
+45,Male,PhD,Chicago,119314,1
+64,Female,High School,New York,64183,0
+50,Male,High School,Chicago,61843,0
+22,Male,Masters,Chicago,46865,0
+36,Male,PhD,Houston,39243,0
+21,Male,,Phoenix,45593,0
+52,Male,High School,New York,55626,0
+34,Female,Bachelors,Chicago,96201,1
+61,Male,Masters,New York,70783,0
+45,Female,Masters,Los Angeles,73866,0
+47,Female,Masters,Houston,68074,0
+46,Male,Masters,Los Angeles,77306,0
+63,Male,PhD,New York,98041,1
+23,Male,PhD,New York,30121,0
+52,Male,Bachelors,Phoenix,94366,1
+58,Female,Masters,Chicago,19699,0
+54,Male,Masters,Chicago,70564,0
+41,Male,High School,Los Angeles,113838,1
+46,Male,,Houston,83613,1
+63,Male,Masters,Chicago,77461,0
+48,Male,Bachelors,Phoenix,110038,1
+52,Male,Bachelors,Los Angeles,55938,0
+50,Female,PhD,Los Angeles,78679,0
+38,Female,Bachelors,Phoenix,81562,1
+49,Male,Bachelors,Houston,59551,0
+40,Male,PhD,Phoenix,61317,0
+50,Male,Masters,Houston,59124,0
+20,Female,Masters,Phoenix,71746,0
+35,Male,Bachelors,Phoenix,80933,1
+42,Female,Bachelors,New York,72464,0
+59,Male,Masters,Los Angeles,84189,1
+48,Male,PhD,Phoenix,30617,0
+20,Male,Bachelors,Phoenix,65634,0
+57,Male,High School,Chicago,49531,0
+63,Female,PhD,Los Angeles,76034,0
+41,Female,Bachelors,Chicago,75738,0
+49,Male,Bachelors,Los Angeles,67687,0
+64,Male,High School,Chicago,80205,1
+39,Female,High School,Phoenix,89956,1
+40,Female,Masters,Phoenix,68789,0
+19,Female,PhD,New York,48966,0
+44,Female,PhD,Chicago,38374,0
+59,Male,Masters,Houston,70722,0
+19,Female,PhD,New York,74837,0
+43,Male,PhD,Chicago,50609,0
+34,Female,PhD,Chicago,84515,1
+57,Female,PhD,New York,60820,0
+50,Female,PhD,Phoenix,36871,0
+26,Female,High School,Chicago,95128,1
+60,Female,PhD,Phoenix,92879,1
+56,Male,High School,New York,29688,0
+46,Male,PhD,Phoenix,58747,0
+59,Female,Masters,Los Angeles,57968,0
+43,Female,Bachelors,Houston,102789,1
+52,Male,High School,Chicago,68014,0
+42,Female,PhD,Houston,40082,0
+41,Female,Masters,Phoenix,87642,1
+30,Male,Bachelors,Chicago,45384,0
+24,Female,High School,Phoenix,64793,0
+53,Female,Bachelors,Los Angeles,54604,0
+62,Male,Masters,New York,58790,0
+37,Male,High School,Chicago,88745,1
+18,Male,Bachelors,Los Angeles,100426,1
+25,Female,PhD,Los Angeles,44512,0
+63,Male,High School,Chicago,82521,1
+33,Male,,Phoenix,55344,0
+31,Male,Masters,Los Angeles,55966,0
+29,Male,Masters,Houston,79812,0
+40,Male,High School,Los Angeles,49441,0
+32,Male,,Phoenix,79412,0
+45,Female,High School,Phoenix,84602,1
+51,Female,High School,Houston,61349,0
+19,Male,Bachelors,Los Angeles,96541,1
+49,Male,Bachelors,Phoenix,44543,0
+40,Male,PhD,Chicago,96908,1
+39,Female,,New York,31120,0
+42,Female,Masters,New York,123994,1
+39,Female,High School,New York,61875,0
+39,Female,High School,Los Angeles,46753,0
+59,Female,Masters,Houston,65346,0
+23,Female,Bachelors,Phoenix,49070,0
+32,Female,Masters,Chicago,77739,0
+60,Female,Masters,Chicago,97353,1
+54,Female,PhD,Los Angeles,50130,0
+50,Male,Masters,New York,81587,1
+25,Male,High School,Los Angeles,39345,0
+61,Male,Masters,Houston,90659,1
+61,Male,High School,Houston,78324,0
+22,Female,High School,Phoenix,91523,1
+56,Female,High School,Phoenix,67553,0
+21,Male,Bachelors,Houston,61296,0
+23,Female,PhD,Houston,86322,1
+62,Male,High School,Houston,43839,0
+49,Female,High School,Los Angeles,35143,0
+47,Male,Bachelors,Houston,69900,0
+64,Female,High School,Chicago,62208,0
+52,Female,Masters,New York,81076,1
+57,Male,Masters,Houston,91831,1
+33,Female,PhD,New York,80660,1
+30,Male,High School,Los Angeles,90238,1
+59,Male,Bachelors,New York,76421,0
+47,Male,Masters,Los Angeles,79891,0
+36,Male,Bachelors,Chicago,67666,0
+34,Female,Bachelors,Los Angeles,79300,0
+36,Female,Masters,Los Angeles,73333,0
+45,Female,Bachelors,Phoenix,76503,0
+43,Male,Masters,Houston,66665,0
+54,Female,Bachelors,Houston,86178,1
+43,Male,Masters,Chicago,55790,0
+40,Female,High School,Chicago,69633,0
+26,Female,PhD,Houston,96235,1
+29,Female,Masters,Phoenix,51025,0
+18,Male,,Houston,26763,0
+18,Female,PhD,Phoenix,77329,0
+64,Female,,Chicago,64860,0
+51,Male,Masters,New York,90217,1
+49,Female,Bachelors,Chicago,67389,0
+42,Male,PhD,Chicago,57913,0
+57,Female,High School,Los Angeles,68483,0
+62,Male,Masters,Los Angeles,91861,1
+18,Male,PhD,Los Angeles,81507,1
+33,Female,Bachelors,Los Angeles,21321,0
+56,Male,High School,Phoenix,73715,0
+22,Male,PhD,Houston,74715,0
+39,Male,High School,New York,69635,0
+46,Male,High School,Chicago,57782,0
+20,Male,High School,Phoenix,93890,1
+29,Male,Masters,New York,94880,1
+43,Female,Masters,Phoenix,25936,0
+33,Male,,Phoenix,54040,0
+54,Male,Bachelors,Chicago,67105,0
+39,Female,,Houston,88970,1
+46,Female,Bachelors,Los Angeles,70697,0
+31,Female,High School,Houston,56328,0
+45,Female,High School,Chicago,84190,1
+22,Female,Masters,Chicago,65773,0
+64,Female,High School,Chicago,67651,0
+47,Female,PhD,New York,69456,0
+63,Male,High School,Houston,81486,1
+22,Male,High School,Houston,63829,0
+29,Female,PhD,Phoenix,83738,1
+33,Male,Bachelors,Phoenix,68538,0
+43,Male,Bachelors,Phoenix,48659,0
+43,Male,PhD,Chicago,69264,0
+38,Female,Masters,Houston,49695,0
+56,Female,High School,Chicago,70819,0
+53,Male,PhD,New York,86589,1
+50,Female,High School,Phoenix,48527,0
+47,Male,Masters,Chicago,77285,0
+54,Male,High School,Chicago,53419,0
+40,Male,PhD,New York,74034,0
+27,Male,High School,Los Angeles,87204,1
+22,Female,Bachelors,Houston,27409,0
+53,Female,,Los Angeles,47710,0
+51,Female,Masters,Phoenix,62620,0
+48,Male,Masters,Chicago,76300,0
+27,Female,PhD,New York,66672,0
+36,Male,Masters,New York,69082,0
+49,Female,Bachelors,Houston,110859,1
+18,Male,PhD,Los Angeles,45750,0
+22,Male,Bachelors,Houston,92709,1
+62,Male,High School,Chicago,63000,0
+21,Female,High School,Houston,80989,1
+33,Female,High School,New York,112578,1
+41,Female,,New York,83773,1
+33,Female,,Phoenix,77449,0
+19,Male,PhD,Phoenix,101982,1
+45,Female,PhD,Chicago,92495,1
+49,Female,Masters,Los Angeles,54012,0
+44,Male,Bachelors,Houston,75890,0
+37,Male,High School,Chicago,35650,0
+41,Male,Bachelors,Phoenix,59196,0
+29,Female,Masters,Houston,76281,0
+52,Male,Masters,Phoenix,57957,0
+50,Male,Bachelors,Houston,75467,0
